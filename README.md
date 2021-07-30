@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sofia-XY
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in movies, games, and running
+- 🌱 I’m currently learning programming and try to find directions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
